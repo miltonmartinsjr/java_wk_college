@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/milton/Desktop/wk-tp2/Files 2"/>
+			<item value="/Users/milton/Desktop/wk-tp2/TestThread3 (with comments)"/>
+			<item value="/Users/milton/Desktop/wk-tp2/Test01Thread"/>
+			<item value="/Users/milton/Desktop/wk-tp2/420-PB4-AG-TP03"/>
+			<item value="/Users/milton/Desktop/wk-tp2/420-PB4-AG-12"/>
+			<item value="/Users/milton/Desktop/wk-tp2/TPBD1 "/>
+			<item value="/Users/milton/Desktop/wk-tp2/MyList"/>
+			<item value="/Users/milton/Desktop/wk-tp2/DB 1v2 (MySql)"/>
+			<item value="/Users/milton/Desktop/wk-tp2/Pizza"/>
+			<item value="/Users/milton/Desktop/wk-tp2/420-PB4-AG-05"/>
+			<item value="/Users/milton/Desktop/wk-tp2/420-PB4-AG-TP02"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+</section>

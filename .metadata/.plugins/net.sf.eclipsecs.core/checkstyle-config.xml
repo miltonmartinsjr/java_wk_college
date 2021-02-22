@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<checkstyle-configurations file-format-version="5.0.0" default-check-configuration="7786174 Canada Inc">
+  <check-configuration name="7786174 Canada Inc" location="/Users/milton/Desktop/wk-tp2/420-PB4-AG-TP02/tools/7786174.canada.checkstyle.configuration.xml" type="external" description="">
+    <additional-data name="protect-config-file" value="false"/>
+  </check-configuration>
+</checkstyle-configurations>

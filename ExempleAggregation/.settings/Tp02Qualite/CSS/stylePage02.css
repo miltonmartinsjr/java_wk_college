@@ -1,0 +1,19 @@
+[class*="col-"], footer {
+
+	text-align: center;
+	background-color: #E0E0E0;
+	border: 2px solid rgb(2, 2, 61);
+    position: fixed;
+}
+
+[class*="logo"], footer {
+	background-color: #DCDCDC;
+	border: 2px solid rgb(2, 2, 61);
+	text-align: center;
+}
+
+h1 {
+    font-style: arial rgb(2, 2, 61);
+	font-size: 30px;
+
+}

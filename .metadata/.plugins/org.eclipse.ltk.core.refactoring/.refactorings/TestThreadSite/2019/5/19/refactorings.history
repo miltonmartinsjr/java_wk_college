@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;application.Thread.java&apos; to &apos;ThreadHeritage.java&apos;&#x0A;- Original project: &apos;TestThreadSite&apos;&#x0A;- Original element: &apos;application.Thread.java&apos;&#x0A;- Renamed element: &apos;application.ThreadHeritage.java&apos;" description="Rename compilation unit &apos;Thread.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;application{Thread.java" name="ThreadHeritage.java" references="false" stamp="1557434623351" version="1.0"/>
+</session>
